@@ -92,3 +92,4 @@ git push origin main
 * **Antes de empezar cada clase:** Ejecute el paso 4 (`fetch` y `merge`) para asegurarse de tener la última versión de los notebooks o archivos que el profesor preparó.
 * **Si usan VS Code:** Puede ver sus remotos en la pestaña de "Source Control" para confirmar que tanto `origin` como `upstream` están bien configurados.
 * **Conflictos:** Si modificó una línea que el profesor también cambió, Git les pedirá elegir cuál versión dejar. No entren en pánico, es parte del aprendizaje.
+# Analisis-predictivo-de-datos
