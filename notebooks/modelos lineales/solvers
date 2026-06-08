@@ -1,0 +1,8 @@
+| Solver            | L1 | L2 | ElasticNet | Sin regularización | Velocidad | Recomendado para       |
+| ----------------- | -- | -- | ---------- | ------------------ | --------- | ---------------------- |
+| `lbfgs`           | ❌ | ✅ |     ❌     |         ✅         | 🚀        | Uso general            |
+| `newton-cg`       | ❌ | ✅ |     ❌     |         ✅         | 🚀        | Muchos registros       |
+| `newton-cholesky` | ❌ | ✅ |     ❌     |         ✅         | 🚀🚀      | Más filas que columnas |
+| `liblinear`       | ✅ | ✅ |     ❌     |         ❌         | ⚡         | Pocas variables        |
+| `sag`             | ❌ | ✅ |     ❌     |         ✅         | 🚀        | Dataset grande         |
+| `saga`            | ✅ | ✅ |     ✅     |         ✅         | 🐢        | L1 / ElasticNet        |
