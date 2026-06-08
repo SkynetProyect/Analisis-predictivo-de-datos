@@ -1,0 +1,10 @@
+| Scoring               | Qué optimiza                                 |
+| --------------------- | -------------------------------------------- |
+| `'accuracy'`          | % total de aciertos                          |
+| `'precision'`         | Minimiza falsos positivos                    |
+| `'recall'`            | Minimiza falsos negativos                    |
+| `'f1'`                | Balance entre precision y recall             |
+| `'roc_auc'`           | Calidad de separación entre clases           |
+| `'average_precision'` | Área bajo Precision-Recall Curve             |
+| `'balanced_accuracy'` | Accuracy ajustada para clases desbalanceadas |
+| `'neg_log_loss'`      | Calidad de las probabilidades predichas      |
