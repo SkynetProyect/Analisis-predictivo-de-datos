@@ -6,3 +6,5 @@
 | `liblinear`       | ✅ | ✅ |     ❌     |         ❌         | ⚡         | Pocas variables        |
 | `sag`             | ❌ | ✅ |     ❌     |         ✅         | 🚀        | Dataset grande         |
 | `saga`            | ✅ | ✅ |     ✅     |         ✅         | 🐢        | L1 / ElasticNet        |
+
+ ESTOS SON LOS TIPOS DE SOLVER APLICABLES A MODELOS DE REGRESION LOGISTICA
